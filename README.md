@@ -18,8 +18,9 @@ This script is designed to efficiently rename multiple files within the `Files` 
 * The prefix you enter will be added to the beginning of the existing filename, separated by an underscore (`_`). For example, if you enter `PROJECT-A` and a file is named `document.pdf`, it will be renamed to `PROJECT-A_document.pdf`.
 * If you encounter any issues, please ensure that Python 3 is correctly installed and that the folder structure is as described above.
 
-## Author Juan Carlos Lopez Badillo
+## Author 
 
+Juan Carlos Lopez Badillo
 ## Date 
 
 05/14/2025
